@@ -9,5 +9,6 @@
     "resolveJsonModule": true,
     "strict": true
   },
-  "include": ["src/**/*", "src/tests/**/*", "src/tests"]
+  "include": ["src/**/*", "src/tests/**/*", "src/tests"],
+  "exclude": ["node_modules", "**/*.test.ts"]
 }
