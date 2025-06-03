@@ -1,6 +1,6 @@
 import mongoose from 'mongoose';
 import request from 'supertest';
-import app from '../src/app';
+import app from '../app';
 
 
 
