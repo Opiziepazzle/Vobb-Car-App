@@ -60,10 +60,11 @@ src/
 ├── routes/
 │   ├── authRoutes.ts
 │   └── carRoutes.ts
-├── app.ts
-└── server.ts
 ├── tests/
 │   └── car.test.ts
+├── app.ts
+└── server.ts
+
 
 
 🔑 Authentication
